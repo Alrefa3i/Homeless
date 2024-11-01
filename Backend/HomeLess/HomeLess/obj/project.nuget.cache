@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NCUeN9cwoF4=",
+  "dgSpecHash": "QqXdtc8Wjdw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\morro\\OneDrive\\Desktop\\Homeless\\Backend\\HomeLess\\HomeLess\\HomeLess.csproj",
+  "projectFilePath": "C:\\Users\\Orange School\\Downloads\\back\\Homeless\\Backend\\HomeLess\\HomeLess\\HomeLess.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\morro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.10\\microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
-    "C:\\Users\\morro\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.10.nupkg.sha512",
-    "C:\\Users\\morro\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.10\\microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512"
+    "C:\\Users\\Orange School\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.8\\microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\Orange School\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\Orange School\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512"
   ],
   "logs": []
 }
