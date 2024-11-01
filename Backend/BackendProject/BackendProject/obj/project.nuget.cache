@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hf2PaTpi7Q8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\morro\\source\\repos\\HomeLess\\Backend\\BackendProject\\BackendProject\\BackendProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.10\\microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\morro\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\morro\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.10\\microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
