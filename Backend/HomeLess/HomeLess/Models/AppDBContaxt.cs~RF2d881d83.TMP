@@ -1,0 +1,68 @@
+﻿using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
+
+namespace HomeLess.Models
+{
+    public class AppDBContaxt : DbContext
+    {
+        public AppDBContaxt(DbContextOptions<AppDBContaxt> options) : base(options)
+        {
+        }
+        public DbSet<User> Users { get; set; }
+        public DbSet<product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Testimonial> Testimonials { get; set; }
+        public DbSet<Comment> Comments { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<Order_Product> Order_Products { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Configure relationships for Categories and Products
+            modelBuilder.Entity<product>()
+                .HasOne(p => p.Category) // Assuming Product has a Category property
+                .WithMany(c => c.Products) // Assuming Category has a collection of Products
+                .HasForeignKey(p => p.CategoryId); // Foreign key in Product table pointing to Category
+
+            // Configure relationships for Products and Reviews
+            modelBuilder.Entity<Comment>()
+                .HasOne(r => r.Product) // Assuming Review has a Product property
+                .WithMany(p => p.Comments) // Assuming Product has a collection of Reviews
+                .HasForeignKey(r => r.ProductId); // Foreign key in Review table pointing to Product
+
+            modelBuilder.Entity<Comment>()
+                .HasOne(r => r.User) // Assuming Review has a Product property
+                .WithMany(p => p.Comments) // Assuming Product has a collection of Reviews
+                .HasForeignKey(r => r.UserId); // Foreign key in Review table pointing to Product
+
+
+            modelBuilder.Entity<Order>()
+                .HasOne(so => so.User) 
+                .WithMany(s => s.Orders) 
+                .HasForeignKey(so => so.UserId);
+
+            modelBuilder.Entity<Testimonial>()
+               .HasOne(so => so.User)
+               .WithMany(s => s.Testimonials)
+               .HasForeignKey(so => so.UserId);
+
+            modelBuilder.Entity<Order_Product>()
+                .HasOne(so => so.Order)
+                .WithMany(s => s.Order_Product)
+                .HasForeignKey(so => so.OrderId);
+
+            modelBuilder.Entity<Order_Product>()
+               .HasOne(so => so.Product)
+               .WithMany(s => s.Order_Product)
+               .HasForeignKey(so => so.ProductId);
+
+            modelBuilder.Entity<Order_Product>()
+                .HasNoKey();
+            // Configure other entities as needed...
+
+            base.OnModelCreating(modelBuilder);
+        }
+
+
+    }
+}

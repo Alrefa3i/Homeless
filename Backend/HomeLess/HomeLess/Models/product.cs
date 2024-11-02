@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc.ViewEngines;
+using System.ComponentModel.DataAnnotations;
 
 namespace HomeLess.Models
 {
     public class product
     {
+        [Key]
         public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
@@ -13,6 +15,8 @@ namespace HomeLess.Models
 
         public Category Category { get; set; }
         public ICollection<Comment> Comments { get; set; } = new List<Comment>();
-        public ICollection<Review> Reviews { get; set; } = new List<Review>();
+        public ICollection<Order_Product> Order_Product { get; set; } = new List<Order_Product>();
+
+
     }
 }

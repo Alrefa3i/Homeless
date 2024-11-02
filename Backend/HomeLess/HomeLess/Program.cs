@@ -1,5 +1,16 @@
+using HomeLess.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
+
+builder.Services.AddRazorPages();
+
+builder.Services.AddDbContext<AppDBContaxt>(options =>
+{
+    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+    options.UseSqlServer(connectionString);
+});
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
