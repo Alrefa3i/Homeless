@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeLess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad1d1cc4c10246aa46832bc4000e88ed5b06624b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d96be1499383dc6437b3030221b76ef5de9528b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeLess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeLess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

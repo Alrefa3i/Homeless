@@ -1,0 +1,106 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: Arial, sans-serif;
+}
+
+body, html {
+height: 100%;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+max-width: 900px;
+height: 100vh;
+}
+
+.form-section {
+width: 60%;
+padding: 40px;
+margin: 10px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.form-section h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+.form-section h2 span {
+    font-weight: bold;
+    color: #333;
+}
+
+.form-section label {
+    font-size: 14px;
+    color: #666;
+}
+
+.form-section input[type="email"],
+.form-section input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.form-section .checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.form-section .checkbox-container input {
+    margin-right: 10px;
+}
+
+.form-section .checkbox-container label {
+    font-size: 14px;
+    color: #666;
+}
+
+.form-section .forgot-password {
+    margin-left: auto;
+    color: #888;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.form-section .forgot-password:hover {
+    text-decoration: underline;
+}
+
+.form-section button {
+    padding: 10px;
+    width: 100%;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .form-section button:hover {
+        background-color: #555;
+    }
+
+.image-section {
+width: 100%;
+background-size: cover;
+background-position: center;
+}

@@ -141,3 +141,5 @@ D:\Orange\C#\pro\Homeless\Backend\HomeLess\HomeLess\obj\Debug\net8.0\refint\Home
 D:\Orange\C#\pro\Homeless\Backend\HomeLess\HomeLess\obj\Debug\net8.0\HomeLess.pdb
 D:\Orange\C#\pro\Homeless\Backend\HomeLess\HomeLess\obj\Debug\net8.0\HomeLess.genruntimeconfig.cache
 D:\Orange\C#\pro\Homeless\Backend\HomeLess\HomeLess\obj\Debug\net8.0\ref\HomeLess.dll
+D:\Orange\C#\pro\Homeless\Backend\HomeLess\HomeLess\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Orange\C#\pro\Homeless\Backend\HomeLess\HomeLess\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll

@@ -5,12 +5,64 @@
       "PackagePath": "staticwebassets\\HomeLess.bundle.scp.css"
     },
     {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Login.css~RF30b9be42.TMP",
+      "PackagePath": "staticwebassets\\css\\Login.css~RF30b9be42.TMP"
+    },
+    {
       "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\Login\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\Login\\bg_1.jpg"
     },
     {
       "Id": "D:\\Orange\\C#\\pro\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\site.js",
