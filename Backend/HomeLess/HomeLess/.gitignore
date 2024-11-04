@@ -54,6 +54,7 @@ packages/
 *.swp
 *.swo
 *.tmp
+*.TMP
 
 # Publish output
 publish/
