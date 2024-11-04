@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Lv/UrG49CdEWE67adDPCjYek1IJWygEss5ZtLZLOJcA=",
+  "Hash": "sIJhGFbEx5uihi0gMj1Hyu6vDn90JK1yqJQCPUCpQeE=",
   "Source": "HomeLess",
   "BasePath": "_content/HomeLess",
   "Mode": "Default",
@@ -340,6 +340,25 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\style.css"
     },
     {
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\first.jpg",
+      "SourceId": "HomeLess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "BasePath": "_content/HomeLess",
+      "RelativePath": "images/first.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\first.jpg"
+    },
+    {
       "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\Login\\bg_1.jpg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
@@ -376,6 +395,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\osama.jpg"
+    },
+    {
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\users\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg",
+      "SourceId": "HomeLess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "BasePath": "_content/HomeLess",
+      "RelativePath": "images/users/builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\users\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg"
     },
     {
       "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\bathroom-category.jpeg",

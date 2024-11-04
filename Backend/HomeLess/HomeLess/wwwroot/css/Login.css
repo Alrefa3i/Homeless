@@ -47,16 +47,17 @@ justify-content: center;
     color: #666;
 }
 
-.form-section input[type="email"],
-.form-section input[type="password"], 
-.form-section input[type="text"] {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    font-size: 16px;
-}
+    .form-section input[type="email"],
+    .form-section input[type="password"],
+    .form-section input[type="text"],
+    .form-section input[type="file"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        font-size: 16px;
+    }
 
 .form-section .checkbox-container {
     display: flex;

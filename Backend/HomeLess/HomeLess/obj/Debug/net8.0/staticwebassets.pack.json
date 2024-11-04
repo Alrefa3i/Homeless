@@ -69,8 +69,16 @@
       "PackagePath": "staticwebassets\\images\\Login\\bg_1.jpg"
     },
     {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\first.jpg",
+      "PackagePath": "staticwebassets\\images\\first.jpg"
+    },
+    {
       "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\osama.jpg",
       "PackagePath": "staticwebassets\\images\\osama.jpg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\users\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg"
     },
     {
       "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\bathroom-category.jpeg",
