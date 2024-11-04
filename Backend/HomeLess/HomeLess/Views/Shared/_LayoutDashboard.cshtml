@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/Dashboard.css">
+</head>
+<body >
+    <div class="wrapper">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <h3>Admin Panel</h3>
+            <ul class="nav">
+                <li><a href="#">Dashboard</a></li>
+                <li><a href="#">Users</a></li>
+                <li><a href="#">Settings</a></li>
+                <li><a href="#">Reports</a></li>
+            </ul>
+        </div>
+        @RenderBody()
+    </div>
+    <script src="~/js/Dashboard.js"></script>
+    <script src="~/js/jquery-3.4.1.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <!-- fontwesome js -->
+    <script src="~/js/all.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

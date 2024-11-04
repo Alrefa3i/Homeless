@@ -47,6 +47,7 @@ namespace HomeLess.Controllers
 
                 _context.Users.Add(user); // Assuming Users is the DbSet for your User model
                 await _context.SaveChangesAsync();
+                return View("Index","Login");
             }
 
             return RedirectToAction(nameof(Index)); // Redirect to the Index action after successful registration
