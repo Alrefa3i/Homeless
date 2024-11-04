@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\HomeLess.csproj": {}
+    "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\HomeLess.csproj": {}
   },
   "projects": {
-    "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\HomeLess.csproj": {
+    "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\HomeLess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\HomeLess.csproj",
+        "projectUniqueName": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\HomeLess.csproj",
         "projectName": "HomeLess",
-        "projectPath": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\HomeLess.csproj",
-        "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-        "outputPath": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\",
+        "projectPath": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\HomeLess.csproj",
+        "packagesPath": "C:\\Users\\Orange School\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Orange School\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

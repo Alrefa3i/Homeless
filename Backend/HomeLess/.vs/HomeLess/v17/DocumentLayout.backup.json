@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,11 +106,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "HomeLess\\Views\\Dashboard\\Index.cshtml",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_LayoutDashboard.cshtml",
               "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Shared\\_LayoutDashboard.cshtml",
               "RelativeDocumentMoniker": "HomeLess\\Views\\Shared\\_LayoutDashboard.cshtml",
@@ -144,12 +144,11 @@
               "RelativeToolTip": "HomeLess\\Controllers\\LoginController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAIAxwDAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T18:23:02.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T18:23:02.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HomeLess\\Views\\Shared\\_Layout.cshtml",
@@ -157,8 +156,7 @@
               "RelativeToolTip": "HomeLess\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T19:17:30.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T19:17:30.954Z"
             },
             {
               "$type": "Document",
@@ -170,8 +168,7 @@
               "RelativeToolTip": "HomeLess\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T18:47:39.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T18:47:39.191Z"
             },
             {
               "$type": "Document",
@@ -183,8 +180,7 @@
               "RelativeToolTip": "HomeLess\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-04T18:45:01.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T18:45:01.112Z"
             },
             {
               "$type": "Document",
@@ -232,8 +228,7 @@
               "RelativeToolTip": "HomeLess\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T16:51:48.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T16:51:48.962Z"
             },
             {
               "$type": "Document",
@@ -245,8 +240,7 @@
               "RelativeToolTip": "HomeLess\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T16:51:27.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T16:51:27.456Z"
             },
             {
               "$type": "Document",
@@ -258,8 +252,7 @@
               "RelativeToolTip": "HomeLess\\Controllers\\RegistrationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:20:17.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T17:20:17.869Z"
             },
             {
               "$type": "Document",
@@ -271,8 +264,7 @@
               "RelativeToolTip": "HomeLess\\Views\\Registration\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T17:20:28.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T17:20:28.866Z"
             },
             {
               "$type": "Document",
