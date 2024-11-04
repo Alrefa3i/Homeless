@@ -48,7 +48,8 @@ justify-content: center;
 }
 
 .form-section input[type="email"],
-.form-section input[type="password"] {
+.form-section input[type="password"], 
+.form-section input[type="text"] {
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;

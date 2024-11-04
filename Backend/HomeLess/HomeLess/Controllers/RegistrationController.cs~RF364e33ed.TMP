@@ -1,0 +1,52 @@
+﻿using HomeLess.Models;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+
+namespace HomeLess.Controllers
+{
+    public class RegistrationController : Controller
+    {
+        private readonly AppDBContaxt _context;
+        public RegistrationController(AppDBContaxt context)
+        {
+            this._context = context;
+        }
+        [HttpGet]
+        public ActionResult Index()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Index(User user)
+        {
+            if (imageFile != null && imageFile.Length > 0)
+            {
+                var fileName = Path.GetFileName(imageFile.FileName);
+                var filePath = Path.Combine(_hostingEnvironment.WebRootPath, "images", fileName);
+
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await imageFile.CopyToAsync(stream);
+                }
+
+                var product = new Product
+                {
+                    Name = Name,
+                    CategoryId = categoryId,
+                    ImagePath = $"/images/{fileName}"
+                };
+                _context.Products.Add(product);
+                await _context.SaveChangesAsync();
+            }
+            return RedirectToAction(nameof(Index));
+            if (ModelState.IsValid)
+            {
+                user.Role = "User";
+                _context.Users.Add(user);
+                _context.SaveChanges();
+                return RedirectToAction("Index", "Home");
+            }
+            return View();
+        }
+    }
+}
