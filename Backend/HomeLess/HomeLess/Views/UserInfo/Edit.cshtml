@@ -1,0 +1,60 @@
+﻿@model HomeLess.Models.User
+@using System.Security.Claims
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Your profile</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <img src="@User.FindFirst("Image")?.Value" alt="@User.Identity.Name" width="100" class="rounded-circle mb-3" />
+                <p> @User.Identity.Name</p>
+                <p>Your Email: @User.FindFirst(ClaimTypes.Email)?.Value</p>
+                <div class="form-group">
+                    <label for="imageFile" class="control-label"></label>
+                    <input type="file" name="imageFile" placeholder="Enter Your New image" class="form-control" required />
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="Name">Name:</label>
+                    <input type="text" id="Name" name="Name" placeholder="Enter Your Name" class="form-control" required>
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">New Password:</label>
+                    <input type="password" id="Password" name="Password" class="form-control" required />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Confirm Password:</label>
+                    <input type="password" id="ConfirmPassword" name="ConfirmPassword" class="form-control" required />
+                    <span class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="Enter Your Email" class="form-control" required>
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+            }
+            
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

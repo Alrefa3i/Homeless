@@ -1,0 +1,97 @@
+﻿@using System.Security.Claims
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    .row {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .col-md-4 {
+        background-color: #f9f9f9; /* Light background for contrast */
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+        text-align: center;
+        max-width: 350px; /* Limit width for better alignment */
+    }
+
+        .col-md-4 p {
+            font-size: 16px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .col-md-4 img {
+            border-radius: 50%;
+            margin: 10px 0;
+        }
+
+        .col-md-4 p:first-child {
+            font-weight: bold;
+            color: #007bff; /* Primary color for greeting */
+        }
+
+        .col-md-4 p:nth-child(3) {
+            font-size: 14px;
+            color: #666; /* Muted color for additional info */
+        }
+
+    .modal-body p {
+        font-size: 16px;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .modal-body img {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        margin: 10px 0;
+    }
+
+    .modal-title {
+        font-weight: bold;
+        color: #007bff;
+    }
+
+</style>
+<hr />
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#userInfoModal">
+    View Manager Info
+</button>
+<!-- Modal Structure -->
+<div class="modal fade" id="userInfoModal" tabindex="-1" aria-labelledby="userInfoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="userInfoModalLabel">Manager Information</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="text-center">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <p>Welcome, @User.Identity.Name!</p>
+                        <img src="@User.FindFirst("Image")?.Value" alt="@User.Identity.Name" width="100" class="rounded-circle mb-3" />
+                        <p>Your Manager ID: @User.FindFirst("UserId")?.Value</p> <!-- Custom claim type for UserId -->
+                        <p>Your Manager Email: @User.FindFirst(ClaimTypes.Email)?.Value</p>
+
+                    }
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
