@@ -117,6 +117,22 @@
       "PackagePath": "staticwebassets\\images\\users\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg"
     },
     {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\background.jpg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\background2.jpg",
+      "PackagePath": "staticwebassets\\img\\background2.jpg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\bannerBcg.jpeg",
+      "PackagePath": "staticwebassets\\img\\bannerBcg.jpeg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\bathroom-category.jpeg",
+      "PackagePath": "staticwebassets\\img\\bathroom-category.jpeg"
+    },
+    {
       "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\bathroom-category.jpeg",
       "PackagePath": "staticwebassets\\img\\cagetogoryImg\\bathroom-category.jpeg"
     },
@@ -131,6 +147,30 @@
     {
       "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\patio-category.jpeg",
       "PackagePath": "staticwebassets\\img\\cagetogoryImg\\patio-category.jpeg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logo-1.png",
+      "PackagePath": "staticwebassets\\img\\company-logo-1.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logo-2.png",
+      "PackagePath": "staticwebassets\\img\\company-logo-2.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logo-3.png",
+      "PackagePath": "staticwebassets\\img\\company-logo-3.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logo-4.png",
+      "PackagePath": "staticwebassets\\img\\company-logo-4.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logo-5.png",
+      "PackagePath": "staticwebassets\\img\\company-logo-5.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logo-6.png",
+      "PackagePath": "staticwebassets\\img\\company-logo-6.png"
     },
     {
       "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-1.png",
@@ -157,8 +197,16 @@
       "PackagePath": "staticwebassets\\img\\company-logos\\company-logo-6.png"
     },
     {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\home-filler.htm",
+      "PackagePath": "staticwebassets\\img\\home-filler.htm"
+    },
+    {
       "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\home-filler.jpeg",
       "PackagePath": "staticwebassets\\img\\home-filler.jpeg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-Home.webp",
+      "PackagePath": "staticwebassets\\img\\img-Home.webp"
     },
     {
       "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-1.png",
@@ -221,6 +269,26 @@
       "PackagePath": "staticwebassets\\img\\img-products\\product-9.png"
     },
     {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img1.webp",
+      "PackagePath": "staticwebassets\\img\\img1.webp"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img3.jpg",
+      "PackagePath": "staticwebassets\\img\\img3.jpg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img4.jpeg",
+      "PackagePath": "staticwebassets\\img\\img4.jpeg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\kitchen-category.jpeg",
+      "PackagePath": "staticwebassets\\img\\kitchen-category.jpeg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\livingroom-category.jpeg",
+      "PackagePath": "staticwebassets\\img\\livingroom-category.jpeg"
+    },
+    {
       "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
@@ -239,6 +307,70 @@
     {
       "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\pageBcg\\storeBcg.jpeg",
       "PackagePath": "staticwebassets\\img\\pageBcg\\storeBcg.jpeg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\patio-category.jpeg",
+      "PackagePath": "staticwebassets\\img\\patio-category.jpeg"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-1.png",
+      "PackagePath": "staticwebassets\\img\\product-1.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-10.png",
+      "PackagePath": "staticwebassets\\img\\product-10.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-12.png",
+      "PackagePath": "staticwebassets\\img\\product-12.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-13.png",
+      "PackagePath": "staticwebassets\\img\\product-13.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-14.png",
+      "PackagePath": "staticwebassets\\img\\product-14.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-15.png",
+      "PackagePath": "staticwebassets\\img\\product-15.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-2.png",
+      "PackagePath": "staticwebassets\\img\\product-2.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-3.png",
+      "PackagePath": "staticwebassets\\img\\product-3.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-4.png",
+      "PackagePath": "staticwebassets\\img\\product-4.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-5.png",
+      "PackagePath": "staticwebassets\\img\\product-5.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-6.png",
+      "PackagePath": "staticwebassets\\img\\product-6.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-7.png",
+      "PackagePath": "staticwebassets\\img\\product-7.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-8.png",
+      "PackagePath": "staticwebassets\\img\\product-8.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\product-9.png",
+      "PackagePath": "staticwebassets\\img\\product-9.png"
+    },
+    {
+      "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\singleBcg.jpeg",
+      "PackagePath": "staticwebassets\\img\\singleBcg.jpeg"
     },
     {
       "Id": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\Dashboard.js",

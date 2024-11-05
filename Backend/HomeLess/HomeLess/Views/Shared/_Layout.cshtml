@@ -44,8 +44,10 @@
                 </ul>
             </div>
             <div class="navbar-icons d-none d-lg-flex w-25 d-md-flex justify-content-evenly align-items-center">
-               
-              
+
+                <a href="store.html" class="navbar-icon mx-3 navbar-cart-icon">
+                    <i class="fas fa-shopping-cart"></i>
+                </a>
               @if (User.Identity.IsAuthenticated)
                         {
                     <div class="dropdown ">
@@ -68,15 +70,21 @@
                             </li>
                             <li><hr class="dropdown-divider my-1"></li>
                             <li><a  href="/userinfo/index"><p class="dropdown-item ">User Info</p></a></li>
-                            <li><a href="/login/Logout"><p class="dropdown-item text-dark ">Log Out</p></a></li>
+                            <li>
+                                <form asp-controller="Login" asp-action="Logout" method="post">
+                                    <button type="submit" class="dropdown-item text-dark ">Logout</button>
+                                </form>
+                            </li>
                         </ul>
                     </div>
 
                     }
-                <a href="store.html" class="navbar-icon mx-2 navbar-cart-icon">
-                    <i class="fas fa-shopping-cart"></i>
-                </a>
+               else{
 
+                    <a asp-area="" asp-controller="Login" asp-action="Index" class="navbar-icon mx-3 navbar-cart-icon" r>
+                    <i class="fas fa-user-circle"></i>
+                </a>
+               }
                
        
                 <!-- end of  single icon -->
@@ -158,14 +166,7 @@
                 </a></li>
         </ul>
     </footer>
-<<<<<<< HEAD
-=======
-   
-    <script src="~/js/jquery-3.4.1.min.js"></script>
-    <!-- Bootstrap js -->
-    <script src="~/js/bootstrap.bundle.min.js"></script>
-    <!-- fontwesome js -->
->>>>>>> 7ced70d449c1b6347934335d064d2b56a59d1b12
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/all.min.js"></script>

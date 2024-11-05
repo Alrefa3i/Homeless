@@ -36,6 +36,7 @@ namespace HomeLess.Controllers
                 var claims = new List<Claim>
                 {
                     new Claim("UserId", existingUser.Id.ToString()),
+                    new Claim(ClaimTypes.NameIdentifier, existingUser.Id.ToString()),
                     new Claim(ClaimTypes.Email, existingUser.Email),
                     new Claim(ClaimTypes.Name, existingUser.Name),
                     new Claim(ClaimTypes.Role, existingUser.Role),

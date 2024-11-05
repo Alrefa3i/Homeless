@@ -12,24 +12,25 @@
         @if (User.Identity.IsAuthenticated)
         {
             <div class="text-center mb-5">
+                <p class="text-success">ID: @User.FindFirst("UserId")?.Value</p>
                 <img src="@User.FindFirst("Image")?.Value" alt="@User.Identity.Name" width="120" class="rounded-circle shadow mb-3" />
                 <h3>@User.Identity.Name</h3>
                 <p class="text-muted">Email: @User.FindFirst(ClaimTypes.Email)?.Value</p>
             </div>
         }
         <div class="col-lg-6">
-            <form asp-action="Edit" class="bg-white p-5 rounded shadow-sm border">
+            <form asp-action="Edit" id="myForm" method="post" enctype="multipart/form-data" class="bg-white p-5 rounded shadow-sm border" novalidate>
                 <div asp-validation-summary="ModelOnly" class="text-danger mb-4"></div>
 
                 <div class="form-group mb-4">
                     <label for="imageFile" class="form-label font-weight-bold">Profile Image</label>
-                    <input type="file" id="imageFile" name="imageFile" class="form-control-file" />
+                    <input type="file" id="imageFile" name="imageFile" class="form-control-file" value="@User.FindFirst("Image")?.Value" required/>
                     <span asp-validation-for="Image" class="text-danger"></span>
                 </div>
 
                 <div class="form-group mb-4">
                     <label for="Name" class="form-label font-weight-bold">Name</label>
-                    <input type="text" id="Name" name="Name" placeholder="Enter Your Name" class="form-control" required>
+                    <input type="text" id="Name" name="Name" placeholder="Enter Your Name" class="form-control" value="@User.Identity.Name" required>
                     <span asp-validation-for="Name" class="text-danger"></span>
                 </div>
 
@@ -57,7 +58,37 @@
         </div>
     </div>
 </div>
+<script>
+    document.getElementById('myForm').addEventListener('submit', function (event) {
+        event.preventDefault(); // Prevent the default form submission
 
+        // Create a FormData object from the form
+        const formData = new FormData(this);
+
+        // Send data using Fetch API
+        fetch('/UserInfo/Edit', {
+            method: 'POST',
+            body: formData
+        })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json(); // Assuming your server responds with JSON
+            })
+            .then(data => {
+                // Handle the successful response
+                document.getElementById('responseMessage').textContent = 'Data submitted successfully!';
+                console.log(data);
+            })
+            .catch(error => {
+                // Handle errors
+                document.getElementById('responseMessage').textContent = 'Error submitting data: ' + error.message;
+            });
+    });
+
+
+</script>
 @section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
