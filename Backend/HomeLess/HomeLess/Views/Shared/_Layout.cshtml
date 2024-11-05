@@ -1,22 +1,28 @@
-﻿<!DOCTYPE html>
+﻿@using System.Security.Claims
+
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - HomeLess</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="~/HomeLess.styles.css" asp-append-version="true" />
-</head>
-<body>
+    <link href="https://cdn.jsdelivr.net/npm/fastbootstrap@2.2.0/dist/css/fastbootstrap.min.css" rel="stylesheet" integrity="sha256-V6lu+OdYNKTKTsVFBuQsyIlDiRWiOmtC8VQ8Lzdm2i4=" crossorigin="anonymous">
 
-    <!-- header section -->
-    <header id="header" class="header">
+</head>
+
+<body>
+    <!-- heasection -->
+    <header id="header" class="header position-sticky top-0 z-50">
         <!-- navbar -->
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a href="index.html" class="navbar-brand">
-                <img src="img/logo.png" alt="company logo" />
+            <a href="index.html" class="navbar-brand"><span><span>H</span>omeless</span> Store</a>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
                 <i class="fas fa-bars"></i>
@@ -29,36 +35,113 @@
                     <li class="nav-item mx-2">
                         <a href="products.html" class="nav-link">Products</a>
                     </li>
-
+                    <li class="nav-item mx-2">
+                        <a href="#contact" class="nav-link">Contact Us</a>
+                    </li>
                     <li class="nav-item mx-2">
                         <a href="store.html" class="nav-link">Store</a>
                     </li>
                 </ul>
             </div>
-            <div class="navbar-icons d-none d-lg-flex">
-                <!-- single icon -->
-                <div class="navbar-icon mx-2"><i class="fas fa-search"></i></div>
-                <!-- end of single icon -->
-                <!-- single icon -->
-                <a href="store.html" class="navbar-icon mx-2 navbar-cart-icon text-dark position-relative">
-                    <i class="fas fa-shopping-cart">
-                    </i>
-                  
+            <div class="navbar-icons d-none d-lg-flex w-25 d-md-flex justify-content-evenly align-items-center">
+               
+              
+              @if (User.Identity.IsAuthenticated)
+                        {
+                    <div class="dropdown ">
+                        <button class="btn btn-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            
+                                    <img src="@User.FindFirst("Image")?.Value"
+                                         class="rounded-circle"
+                                         height="30"
+                                         alt=""
+                                         loading="lazy" />
+
+                               
+                        </button>
+                        <ul class="dropdown-menu px-4">
+                            <li>
+                                <h6 class="card-subtitle mb-2 fs-6"> @User.Identity.Name</h6>
+                                <div class="badge text-bg-light text-wrap">
+                                    @User.FindFirst(ClaimTypes.Email)?.Value
+                                </div>
+                            </li>
+                            <li><hr class="dropdown-divider my-1"></li>
+                            <li><a  href="/userinfo/index"><p class="dropdown-item ">User Info</p></a></li>
+                            <li><a href="/login/Logout"><p class="dropdown-item text-dark ">Log Out</p></a></li>
+                        </ul>
+                    </div>
+
+                    }
+                <a href="store.html" class="navbar-icon mx-2 navbar-cart-icon">
+                    <i class="fas fa-shopping-cart"></i>
                 </a>
+
+               
+       
                 <!-- end of  single icon -->
             </div>
         </nav>
-        <!-- end of navbar -->
        
     </header>
+    <div id="alr" class="position-fixed end-0 mt-4 alert-box" style="display:none;">
+        <div class="alert alert-success" role="alert">
+            A simple success alert—check it out!
+        </div>
+    </div>
+
+    <style>
+        .alert-box {
+            opacity: 0;
+            transition: opacity 0.5s ease-in-out;
+        }
+
+            .alert-box.show {
+                display: block;
+                opacity: 1;
+            }
+
+            .alert-box.hide {
+                opacity: 0;
+                transition: opacity 0.5s ease-in-out;
+            }
+    </style>
+
+    <script>
+        function addToCart(id) {
+            const alertBox = document.getElementById("alr");
+
+            // Add the 'show' class to trigger fade-in
+            alertBox.classList.add("show");
+
+            // Set a timeout to fade out after 3 seconds
+            setTimeout(() => {
+                alertBox.classList.remove("show");
+                alertBox.classList.add("hide");
+
+                // After fade-out completes, set display to none
+                setTimeout(() => {
+                    alertBox.classList.remove("hide");
+                    alertBox.style.display = 'none';
+                }, 500); // Match this to the CSS transition duration
+            }, 3000);
+        }
+
+        addToCart(3)
+    </script>
+
+
+
     <!-- end of header section -->
     <div class="">
-            @RenderBody()
+        @RenderBody()
     </div>
     <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
         <div class="col-md-4 d-flex align-items-center">
             <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
-                <svg class="bi" width="30" height="24"><use xlink:href="#bootstrap" /></svg>
+                <svg class="bi" width="30" height="24">
+                    <use xlink:href="#bootstrap" />
+                </svg>
             </a>
             <span class="text-muted">&copy; 2021 Company, Inc</span>
         </div>
@@ -66,19 +149,31 @@
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
             <li class="ms-3"><a class="text-muted" href="#">
                     <i class="fab fa-facebook"></i>
-            </a></li>
+                </a></li>
             <li class="ms-3"><a class="text-muted" href="#">
                     <i class="fab fa-facebook"></i>
-            </a></li>
+                </a></li>
             <li class="ms-3"><a class="text-muted" href="#">
                     <i class="fab fa-facebook"></i>
-            </a></li>
+                </a></li>
         </ul>
     </footer>
+<<<<<<< HEAD
+=======
+   
+    <script src="~/js/jquery-3.4.1.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <!-- fontwesome js -->
+>>>>>>> 7ced70d449c1b6347934335d064d2b56a59d1b12
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/all.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+
     @await RenderSectionAsync("Scripts", required: false)
+
+
 </body>
+
 </html>
