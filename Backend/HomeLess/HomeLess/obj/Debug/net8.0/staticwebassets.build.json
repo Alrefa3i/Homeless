@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S3+tCjQm8lTHZ9qbNIaY804k+/wKegxUTMTmX+eLrS4=",
+  "Hash": "oVk5fRpyPRMKIGRUzrrELwqq2hp1UeBDy8aONWz5Xn0=",
   "Source": "HomeLess",
   "BasePath": "_content/HomeLess",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HomeLess\\wwwroot",
       "Source": "HomeLess",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeLess.styles.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeLess.styles.css",
       "SourceId": "HomeLess",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "HomeLess.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeLess.styles.css"
+      "OriginalItemSpec": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HomeLess.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeLess.bundle.scp.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeLess.bundle.scp.css",
       "SourceId": "HomeLess",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "HomeLess.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeLess.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeLess.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\all.min.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\all.min.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "css/all.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Dashboard.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Dashboard.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "css/Dashboard.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Login.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Login.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "css/Login.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Login.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Login.css~RF30b9be42.TMP",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Login.css~RF30b9be42.TMP",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "css/Login.css~RF30b9be42.TMP",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Login.css~RF30b9be42.TMP"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\site.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\favicon.ico",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\demo.html",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\demo.html",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "fonts/icomoon/demo.html",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\demo.html"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "fonts/icomoon/demo-files/demo.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\demo-files\\demo.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "fonts/icomoon/demo-files/demo.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\demo-files\\demo.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "fonts/icomoon/fonts/icomoon.eot",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "fonts/icomoon/fonts/icomoon.svg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "fonts/icomoon/fonts/icomoon.ttf",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "fonts/icomoon/fonts/icomoon.woff",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\Read Me.txt",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "fonts/icomoon/Read Me.txt",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\Read Me.txt"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\selection.json",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\selection.json",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "fonts/icomoon/selection.json",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\selection.json"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\style.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\fonts\\icomoon\\style.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "fonts/icomoon/style.css",
       "AssetKind": "All",
@@ -359,10 +359,48 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\Abd.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "BasePath": "_content/HomeLess",
+      "RelativePath": "images/Abd.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Abd.png"
+    },
+    {
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\About.png",
+      "SourceId": "HomeLess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "BasePath": "_content/HomeLess",
+      "RelativePath": "images/About.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\About.png"
+    },
+    {
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg",
+      "SourceId": "HomeLess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "images/builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg",
       "AssetKind": "All",
@@ -378,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\first.jpg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\first.jpg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "images/first.jpg",
       "AssetKind": "All",
@@ -397,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\first.jpg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\Login\\bg_1.jpg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\Login\\bg_1.jpg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "images/Login/bg_1.jpg",
       "AssetKind": "All",
@@ -416,10 +454,67 @@
       "OriginalItemSpec": "wwwroot\\images\\Login\\bg_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\osama.jpg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\Manar.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "BasePath": "_content/HomeLess",
+      "RelativePath": "images/Manar.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Manar.png"
+    },
+    {
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\Mohammad.png",
+      "SourceId": "HomeLess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "BasePath": "_content/HomeLess",
+      "RelativePath": "images/Mohammad.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Mohammad.png"
+    },
+    {
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\Morad.png",
+      "SourceId": "HomeLess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "BasePath": "_content/HomeLess",
+      "RelativePath": "images/Morad.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Morad.png"
+    },
+    {
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\osama.jpg",
+      "SourceId": "HomeLess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "images/osama.jpg",
       "AssetKind": "All",
@@ -435,10 +530,48 @@
       "OriginalItemSpec": "wwwroot\\images\\osama.jpg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\users\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\Osama.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "BasePath": "_content/HomeLess",
+      "RelativePath": "images/Osama.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Osama.png"
+    },
+    {
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\top-view-steel-hammer-with-other-construction-elements-tools (1).jpg",
+      "SourceId": "HomeLess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "BasePath": "_content/HomeLess",
+      "RelativePath": "images/top-view-steel-hammer-with-other-construction-elements-tools (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\top-view-steel-hammer-with-other-construction-elements-tools (1).jpg"
+    },
+    {
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\images\\users\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg",
+      "SourceId": "HomeLess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "images/users/builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg",
       "AssetKind": "All",
@@ -454,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\builder-construction-vest-orange-helmet-standing-white-wall-safety-specialist-engineer-industry-architecture-manager-occupation-businessman-job-concept.jpg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\bathroom-category.jpeg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\bathroom-category.jpeg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/cagetogoryImg/bathroom-category.jpeg",
       "AssetKind": "All",
@@ -473,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cagetogoryImg\\bathroom-category.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\kitchen-category.jpeg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\kitchen-category.jpeg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/cagetogoryImg/kitchen-category.jpeg",
       "AssetKind": "All",
@@ -492,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cagetogoryImg\\kitchen-category.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\livingroom-category.jpeg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\livingroom-category.jpeg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/cagetogoryImg/livingroom-category.jpeg",
       "AssetKind": "All",
@@ -511,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cagetogoryImg\\livingroom-category.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\patio-category.jpeg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\cagetogoryImg\\patio-category.jpeg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/cagetogoryImg/patio-category.jpeg",
       "AssetKind": "All",
@@ -530,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cagetogoryImg\\patio-category.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-1.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-1.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/company-logos/company-logo-1.png",
       "AssetKind": "All",
@@ -549,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\company-logo-1.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-2.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-2.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/company-logos/company-logo-2.png",
       "AssetKind": "All",
@@ -568,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\company-logo-2.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-3.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-3.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/company-logos/company-logo-3.png",
       "AssetKind": "All",
@@ -587,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\company-logo-3.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-4.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-4.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/company-logos/company-logo-4.png",
       "AssetKind": "All",
@@ -606,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\company-logo-4.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-5.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-5.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/company-logos/company-logo-5.png",
       "AssetKind": "All",
@@ -625,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\company-logo-5.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-6.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\company-logos\\company-logo-6.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/company-logos/company-logo-6.png",
       "AssetKind": "All",
@@ -644,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\company-logo-6.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\home-filler.jpeg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\home-filler.jpeg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/home-filler.jpeg",
       "AssetKind": "All",
@@ -663,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\img\\home-filler.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-1.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-1.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-1.png",
       "AssetKind": "All",
@@ -682,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-1.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-10.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-10.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-10.png",
       "AssetKind": "All",
@@ -701,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-10.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-11.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-11.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-11.png",
       "AssetKind": "All",
@@ -720,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-11.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-12.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-12.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-12.png",
       "AssetKind": "All",
@@ -739,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-12.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-13.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-13.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-13.png",
       "AssetKind": "All",
@@ -758,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-13.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-14.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-14.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-14.png",
       "AssetKind": "All",
@@ -777,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-14.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-15.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-15.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-15.png",
       "AssetKind": "All",
@@ -796,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-15.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-2.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-2.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-2.png",
       "AssetKind": "All",
@@ -815,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-2.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-3.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-3.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-3.png",
       "AssetKind": "All",
@@ -834,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-3.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-4.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-4.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-4.png",
       "AssetKind": "All",
@@ -853,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-4.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-5.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-5.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-5.png",
       "AssetKind": "All",
@@ -872,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-5.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-6.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-6.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-6.png",
       "AssetKind": "All",
@@ -891,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-6.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-7.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-7.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-7.png",
       "AssetKind": "All",
@@ -910,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-7.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-8.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-8.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-8.png",
       "AssetKind": "All",
@@ -929,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-8.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-9.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\img-products\\product-9.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/img-products/product-9.png",
       "AssetKind": "All",
@@ -948,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img-products\\product-9.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\logo.png",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\logo.png",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -967,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\pageBcg\\bannerBcg.jpeg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\pageBcg\\bannerBcg.jpeg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/pageBcg/bannerBcg.jpeg",
       "AssetKind": "All",
@@ -986,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pageBcg\\bannerBcg.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\pageBcg\\productsBcg.jpeg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\pageBcg\\productsBcg.jpeg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/pageBcg/productsBcg.jpeg",
       "AssetKind": "All",
@@ -1005,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pageBcg\\productsBcg.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\pageBcg\\singleBcg.jpeg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\pageBcg\\singleBcg.jpeg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/pageBcg/singleBcg.jpeg",
       "AssetKind": "All",
@@ -1024,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pageBcg\\singleBcg.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\pageBcg\\storeBcg.jpeg",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\img\\pageBcg\\storeBcg.jpeg",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "img/pageBcg/storeBcg.jpeg",
       "AssetKind": "All",
@@ -1043,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pageBcg\\storeBcg.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\all.min.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\all.min.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "js/all.min.js",
       "AssetKind": "All",
@@ -1062,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\js\\all.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1081,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\Dashboard.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\Dashboard.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "js/Dashboard.js",
       "AssetKind": "All",
@@ -1100,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\jquery-3.4.1.min.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "js/jquery-3.4.1.min.js",
       "AssetKind": "All",
@@ -1119,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\site.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1138,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1157,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1176,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1195,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1214,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1233,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1252,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1271,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1290,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1309,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1328,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1347,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1366,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1385,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1404,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1423,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1461,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1480,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1499,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1518,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1537,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1556,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1575,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1594,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css",
       "AssetKind": "All",
@@ -1613,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
       "AssetKind": "All",
@@ -1632,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css",
       "AssetKind": "All",
@@ -1651,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
       "AssetKind": "All",
@@ -1670,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1689,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1708,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1727,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1765,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1784,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1803,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1822,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1841,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1860,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1879,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1898,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1917,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1936,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1955,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1974,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1993,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2012,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2031,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2050,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2069,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2088,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2107,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2126,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2145,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2164,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2183,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2202,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2221,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2240,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2259,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2278,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "HomeLess",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
+      "ContentRoot": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\",
       "BasePath": "_content/HomeLess",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

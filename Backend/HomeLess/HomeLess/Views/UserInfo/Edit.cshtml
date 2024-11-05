@@ -4,57 +4,62 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit Your profile</h1>
+<div class="container my-5">
+    <h1 class="text-center display-4">Edit Profile</h1>
+    <hr class="mb-5" />
 
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            @if (User.Identity.IsAuthenticated)
-            {
-                <img src="@User.FindFirst("Image")?.Value" alt="@User.Identity.Name" width="100" class="rounded-circle mb-3" />
-                <p> @User.Identity.Name</p>
-                <p>Your Email: @User.FindFirst(ClaimTypes.Email)?.Value</p>
-                <div class="form-group">
-                    <label for="imageFile" class="control-label"></label>
-                    <input type="file" name="imageFile" placeholder="Enter Your New image" class="form-control" required />
+    <div class="row justify-content-center">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="text-center mb-5">
+                <img src="@User.FindFirst("Image")?.Value" alt="@User.Identity.Name" width="120" class="rounded-circle shadow mb-3" />
+                <h3>@User.Identity.Name</h3>
+                <p class="text-muted">Email: @User.FindFirst(ClaimTypes.Email)?.Value</p>
+            </div>
+        }
+        <div class="col-lg-6">
+            <form asp-action="Edit" class="bg-white p-5 rounded shadow-sm border">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-4"></div>
+
+                <div class="form-group mb-4">
+                    <label for="imageFile" class="form-label font-weight-bold">Profile Image</label>
+                    <input type="file" id="imageFile" name="imageFile" class="form-control-file" />
                     <span asp-validation-for="Image" class="text-danger"></span>
                 </div>
-                <div class="form-group">
-                    <label for="Name">Name:</label>
+
+                <div class="form-group mb-4">
+                    <label for="Name" class="form-label font-weight-bold">Name</label>
                     <input type="text" id="Name" name="Name" placeholder="Enter Your Name" class="form-control" required>
                     <span asp-validation-for="Name" class="text-danger"></span>
                 </div>
-                <div class="form-group">
-                    <label class="control-label">New Password:</label>
+
+                <div class="form-group mb-4">
+                    <label for="Password" class="form-label font-weight-bold">New Password</label>
                     <input type="password" id="Password" name="Password" class="form-control" required />
                     <span asp-validation-for="Password" class="text-danger"></span>
                 </div>
-                <div class="form-group">
-                    <label class="control-label">Confirm Password:</label>
+
+                <div class="form-group mb-4">
+                    <label for="ConfirmPassword" class="form-label font-weight-bold">Confirm Password</label>
                     <input type="password" id="ConfirmPassword" name="ConfirmPassword" class="form-control" required />
-                    <span class="text-danger"></span>
                 </div>
 
-                <div class="form-group">
-                    <label for="email">Email:</label>
+                <div class="form-group mb-4">
+                    <label for="email" class="form-label font-weight-bold">Email</label>
                     <input type="email" id="email" name="email" placeholder="Enter Your Email" class="form-control" required>
                     <span asp-validation-for="Email" class="text-danger"></span>
                 </div>
-            }
-            
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary btn-lg">Save Changes</button>
+                </div>
+            </form>
+        </div>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

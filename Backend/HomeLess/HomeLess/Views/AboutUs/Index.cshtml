@@ -1,0 +1,163 @@
+﻿@{
+	ViewBag.Title = "About Us";
+	@model List<HomeLess.Models.Testimonial>
+
+}
+<style>
+	.carousel-control-prev,
+	.carousel-control-next {
+		top: 35%;
+		width: 50px;
+		height: 50px;
+		background-color: #333;
+		border-radius: 50%;
+		border: 2px solid #fff;
+		box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.carousel-control-prev-icon,
+	.carousel-control-next-icon {
+		background-color: #fff;
+		border-radius: 50%;
+	}
+
+	.carousel-control-prev:hover,
+	.carousel-control-next:hover {
+		background-color: #555;
+		box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.5);
+	}
+
+	.carousel-control-prev {
+		left: -51px;
+	}
+
+	.carousel-control-next {
+		right: -51px;
+	}
+
+	.testimonial {
+		background-color: #f9f9f9;
+		box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+	}
+
+		.testimonial p {
+			margin-bottom: 0.5em;
+		}
+
+		.testimonial .message {
+			white-space: normal;
+			overflow-wrap: break-word;
+			word-wrap: break-word;
+			word-break: break-word;
+		}
+
+
+	.fa-star.checked {
+		color: gold;
+	}
+
+	.fa-star {
+		color: lightgray;
+	}
+</style>
+
+
+<div class="container my-5">
+	<h1 class="text-center">About Us</h1>
+	<hr />
+	<div class="row">
+		<div class="col-md-6">
+			<h2>Our Story</h2>
+			<p>
+				Welcome to Homeless! We are passionate about transforming houses into homes, creating warm, comfortable, and stylish spaces that reflect your unique taste. At Homeless, we believe that your furniture is more than just functional—it’s a part of your story. That’s why our curated collection is crafted with attention to detail, blending elegance and practicality to help you bring your vision of home to life.
+			</p>
+			<p>
+				We have dedicated ourselves to offering furniture that combines craftsmanship with affordability, ensuring that everyone can experience a beautiful and comfortable living space. Our team works tirelessly to bring you the latest trends in home decor, while always prioritizing functionality and long-lasting quality.
+			</p>
+			<hr>
+			<h2>Our Mission</h2>
+			<p>
+				To provide high-quality, affordable furniture that elevates both beauty and functionality in your home. We’re committed to helping you create a space that feels uniquely yours, with your satisfaction as our top priority.
+			</p>
+		</div>
+		<div class="col-md-6">
+			<img src="~/images/About.png" class="img-fluid" alt="About Us Image" />
+		</div>
+	</div>
+
+	<div class="row mt-5">
+		<div class="col-md-12">
+			<h2 class="text-center">What Our Customers Say</h2>
+			<div id="testimonialCarousel" class="carousel slide mt-4" data-bs-ride="carousel">
+				<div class="carousel-inner">
+					@for (int i = 0; i < Model.Count; i += 3)
+					{
+						<div class="carousel-item @(i == 0 ? "active" : "")">
+							<div class="row">
+								@for (int j = i; j < i + 3 && j < Model.Count; j++)
+								{
+									var testimonial = Model[j];
+									<div class="col-md-4">
+										<div class="testimonial border p-4 rounded text-center" style="min-height: 300px;">
+
+											<img src="@(Url.Content(testimonial.User?.Image ?? "~/images/default-user.png"))"
+												 class="rounded-circle mb-3" width="80" height="80" alt="User Image" />
+
+											<p><strong>@(testimonial.User?.Name ?? "Anonymous")</strong></p>
+
+											<p class="message">@testimonial.text</p>
+
+											<!-- Star Rating -->
+											<p>
+												@for (int star = 1; star <= 5; star++)
+												{
+													<span class="fa fa-star @(star <= Math.Ceiling(testimonial.Rating) ? "checked" : "")"></span>
+												}
+											</p>
+
+											<p><small>@testimonial.date.ToShortDateString()</small></p>
+										</div>
+									</div>
+								}
+							</div>
+						</div>
+					}
+				</div>
+
+				<!-- Carousel controls -->
+				<button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon bg-dark p-3 rounded-circle" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				</button>
+				<button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">
+					<span class="carousel-control-next-icon bg-dark p-3 rounded-circle" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				</button>
+			</div>
+
+			<h2 class="text-center mt-5">Our Team</h2>
+			<div class="row mt-4 justify-content-center">
+				<div class="col-md-2 text-center">
+					<img src="~/images/Osama.png" class="img-fluid rounded-circle" alt="Osama" />
+				</div>
+				<div class="col-md-2 text-center">
+					<img src="~/images/Mohammad.png" class="img-fluid rounded-circle" alt="Mohammad" />
+				</div>
+				<div class="col-md-2 text-center">
+					<img src="~/images/Manar.png" class="img-fluid rounded-circle" alt="Manar" />
+				</div>
+				<div class="col-md-2 text-center">
+					<img src="~/images/Abd.png" class="img-fluid rounded-circle" alt="Abd" />
+				</div>
+				<div class="col-md-2 text-center">
+					<img src="~/images/Morad.png" class="img-fluid rounded-circle" alt="Morad" />
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+

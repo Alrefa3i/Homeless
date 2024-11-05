@@ -1,113 +1,121 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\",
+  "WorkspaceRootPath": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\views\\home\\privacy.cshtml~rf2e016be5.tmp||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\home\\privacy.cshtml~rf2e016be5.tmp||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\userinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\userinfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\userinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\userinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\wwwroot\\js\\all.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\wwwroot\\js\\all.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\wwwroot\\js\\all.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\appsettings.json~rf2d4f8ef0.tmp||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\appsettings.json~rf2d4f8ef0.tmp||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\appsettings.json~rf2d4f8ef0.tmp||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\models\\order_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\models\\order_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\models\\order_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\models\\appdbcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\models\\appdbcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\models\\appdbcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\models\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\models\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\models\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|c:\\users\\orange school\\documents\\homeless\\backend\\homeless\\homeless\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|d:\\orange\\c#\\pro1\\homeless\\backend\\homeless\\homeless\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E38F10F-288A-4846-931B-97F20FBBAC37}|HomeLess\\HomeLess.csproj|solutionrelative:homeless\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -124,123 +132,120 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "HomeLess\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "HomeLess\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\AboutUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeLess\\Views\\AboutUs\\Index.cshtml",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\AboutUs\\Index.cshtml",
+              "RelativeToolTip": "HomeLess\\Views\\AboutUs\\Index.cshtml",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAgwHAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T19:32:46.425Z",
+              "WhenOpened": "2024-11-05T08:14:15.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Privacy.cshtml~RF2e016be5.TMP",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Home\\Privacy.cshtml~RF2e016be5.TMP",
-              "RelativeDocumentMoniker": "HomeLess\\Views\\Home\\Privacy.cshtml~RF2e016be5.TMP",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Home\\Privacy.cshtml~RF2e016be5.TMP",
-              "RelativeToolTip": "HomeLess\\Views\\Home\\Privacy.cshtml~RF2e016be5.TMP",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-04T19:32:42.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "HomeLess\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "HomeLess\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\UserInfo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HomeLess\\Views\\UserInfo\\Edit.cshtml",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\UserInfo\\Edit.cshtml",
+              "RelativeToolTip": "HomeLess\\Views\\UserInfo\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T19:32:40.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "HomeLess\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "HomeLess\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T19:03:59.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_LayoutDashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Shared\\_LayoutDashboard.cshtml",
-              "RelativeDocumentMoniker": "HomeLess\\Views\\Shared\\_LayoutDashboard.cshtml",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Shared\\_LayoutDashboard.cshtml",
-              "RelativeToolTip": "HomeLess\\Views\\Shared\\_LayoutDashboard.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T18:46:06.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "HomeLess\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "HomeLess\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAIAxwDAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T18:23:02.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HomeLess\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HomeLess\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T19:17:30.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "HomeLess\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "HomeLess\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T18:47:39.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "HomeLess\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "HomeLess\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAFcBAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T19:25:10.564Z",
+              "WhenOpened": "2024-11-04T20:21:05.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeLess\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "HomeLess\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T19:32:46.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeLess\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "HomeLess\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T17:20:28.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\UserInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeLess\\Views\\UserInfo\\Index.cshtml",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\UserInfo\\Index.cshtml",
+              "RelativeToolTip": "HomeLess\\Views\\UserInfo\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T19:54:16.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "HomeLess\\Controllers\\RegistrationController.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "HomeLess\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:20:17.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Program.cs",
+              "RelativeDocumentMoniker": "HomeLess\\Program.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Program.cs",
+              "RelativeToolTip": "HomeLess\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:51:48.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "HomeLess\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "HomeLess\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:23:02.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\appsettings.json",
+              "RelativeDocumentMoniker": "HomeLess\\appsettings.json",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\appsettings.json",
+              "RelativeToolTip": "HomeLess\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T16:51:27.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "HomeLess\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "HomeLess\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -248,11 +253,83 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeLess\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeLess\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAEQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T19:17:30.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LayoutDashboard.cshtml",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "RelativeDocumentMoniker": "HomeLess\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "RelativeToolTip": "HomeLess\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T18:46:06.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeLess\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "HomeLess\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T19:03:59.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HomeLess\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "HomeLess\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T19:32:40.461Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "HomeLess\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "HomeLess\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:47:39.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeLess\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HomeLess\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFcBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T19:25:10.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "HomeLess\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\site.css",
               "RelativeToolTip": "HomeLess\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAC4AAAAAAAAAAAAewDoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -260,11 +337,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "all.min.js",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\all.min.js",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\all.min.js",
               "RelativeDocumentMoniker": "HomeLess\\wwwroot\\js\\all.min.js",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\all.min.js",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\js\\all.min.js",
               "RelativeToolTip": "HomeLess\\wwwroot\\js\\all.min.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -272,59 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Program.cs",
-              "RelativeDocumentMoniker": "HomeLess\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Program.cs",
-              "RelativeToolTip": "HomeLess\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T16:51:48.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\appsettings.json",
-              "RelativeDocumentMoniker": "HomeLess\\appsettings.json",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\appsettings.json",
-              "RelativeToolTip": "HomeLess\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T16:51:27.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RegistrationController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\RegistrationController.cs",
-              "RelativeDocumentMoniker": "HomeLess\\Controllers\\RegistrationController.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Controllers\\RegistrationController.cs",
-              "RelativeToolTip": "HomeLess\\Controllers\\RegistrationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:20:17.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Registration\\Index.cshtml",
-              "RelativeDocumentMoniker": "HomeLess\\Views\\Registration\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Views\\Registration\\Index.cshtml",
-              "RelativeToolTip": "HomeLess\\Views\\Registration\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T17:20:28.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Login.css",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Login.css",
               "RelativeDocumentMoniker": "HomeLess\\wwwroot\\css\\Login.css",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Login.css",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\wwwroot\\css\\Login.css",
               "RelativeToolTip": "HomeLess\\wwwroot\\css\\Login.css",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -332,11 +361,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ContactUs.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\ContactUs.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\ContactUs.cs",
               "RelativeDocumentMoniker": "HomeLess\\Models\\ContactUs.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\ContactUs.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\ContactUs.cs",
               "RelativeToolTip": "HomeLess\\Models\\ContactUs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -344,11 +373,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Testimonial.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Testimonial.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Testimonial.cs",
               "RelativeDocumentMoniker": "HomeLess\\Models\\Testimonial.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Testimonial.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Testimonial.cs",
               "RelativeToolTip": "HomeLess\\Models\\Testimonial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,11 +385,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Category.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Category.cs",
               "RelativeDocumentMoniker": "HomeLess\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Category.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Category.cs",
               "RelativeToolTip": "HomeLess\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -368,11 +397,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Order.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Order.cs",
               "RelativeDocumentMoniker": "HomeLess\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Order.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Order.cs",
               "RelativeToolTip": "HomeLess\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -380,11 +409,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "appsettings.json~RF2d4f8ef0.TMP",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\appsettings.json~RF2d4f8ef0.TMP",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\appsettings.json~RF2d4f8ef0.TMP",
               "RelativeDocumentMoniker": "HomeLess\\appsettings.json~RF2d4f8ef0.TMP",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\appsettings.json~RF2d4f8ef0.TMP",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\appsettings.json~RF2d4f8ef0.TMP",
               "RelativeToolTip": "HomeLess\\appsettings.json~RF2d4f8ef0.TMP",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -392,11 +421,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "AppDBContaxt.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\AppDBContaxt.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\AppDBContaxt.cs",
               "RelativeDocumentMoniker": "HomeLess\\Models\\AppDBContaxt.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\AppDBContaxt.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\AppDBContaxt.cs",
               "RelativeToolTip": "HomeLess\\Models\\AppDBContaxt.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -404,11 +433,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Order_Product.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Order_Product.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Order_Product.cs",
               "RelativeDocumentMoniker": "HomeLess\\Models\\Order_Product.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Order_Product.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Order_Product.cs",
               "RelativeToolTip": "HomeLess\\Models\\Order_Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -416,11 +445,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Comment.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "HomeLess\\Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Comment.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\Comment.cs",
               "RelativeToolTip": "HomeLess\\Models\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,11 +457,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "product.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\product.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\product.cs",
               "RelativeDocumentMoniker": "HomeLess\\Models\\product.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\product.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\product.cs",
               "RelativeToolTip": "HomeLess\\Models\\product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,11 +469,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\User.cs",
+              "DocumentMoniker": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\User.cs",
               "RelativeDocumentMoniker": "HomeLess\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Orange School\\Documents\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\User.cs",
+              "ToolTip": "D:\\Orange\\C#\\pro1\\Homeless\\Backend\\HomeLess\\HomeLess\\Models\\User.cs",
               "RelativeToolTip": "HomeLess\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
